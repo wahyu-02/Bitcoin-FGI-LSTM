@@ -33,15 +33,13 @@ Evaluation was performed using **Mean Absolute Percentage Error (MAPE)** on the 
 | **Model 2** | Price + FGI + Correlations | **2.33%** | **Best Performance** |
 
 ### Prediction Visualization (Model 2)
-![Prediction Result](images/prediction_result.png)
-*(Note: Replace with your actual image path)*
+![Prediction Result](Images/prediksi model 2.png)
 
 ### Training Loss Convergence
-![Loss Curve](images/loss_curve_model2.png)
-*(Note: Replace with your actual image path)*
+![Loss Curve](images/loss model 2.png)
 
 ## 🛠️ Installation & Usage
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/USERNAME/Bitcoin-FGI-LSTM.git](https://github.com/USERNAME/Bitcoin-FGI-LSTM.git)
+   git clone [https://github.com/USERNAME/Bitcoin-FGI-LSTM.git](https://github.com/wahyu-02/Bitcoin-FGI-LSTM.git)
