@@ -42,4 +42,4 @@ Evaluation was performed using **Mean Absolute Percentage Error (MAPE)** on the 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/USERNAME/Bitcoin-FGI-LSTM.git](https://github.com/wahyu-02/Bitcoin-FGI-LSTM.git)
+   git clone https://github.com/wahyu-02/Bitcoin-FGI-LSTM.git
