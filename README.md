@@ -33,10 +33,10 @@ Evaluation was performed using **Mean Absolute Percentage Error (MAPE)** on the 
 | **Model 2** | Price + FGI + Correlations | **2.33%** | **Best Performance** |
 
 ### Prediction Visualization (Model 2)
-![Prediction Result](Images/prediksi model 2.png)
+![Prediction Result](Images/prediksi_model2.png)
 
 ### Training Loss Convergence
-![Loss Curve](images/loss model 2.png)
+![Loss Curve](images/loss_model2.png)
 
 ## 🛠️ Installation & Usage
 
