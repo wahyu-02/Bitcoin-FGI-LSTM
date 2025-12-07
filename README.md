@@ -36,7 +36,7 @@ Evaluation was performed using **Mean Absolute Percentage Error (MAPE)** on the 
 ![Prediction Result](Images/prediksi_model2.png)
 
 ### Training Loss Convergence
-![Loss Curve](images/loss_model2.png)
+![Loss Curve](Images/loss_model2.png)
 
 ## 🛠️ Installation & Usage
 
